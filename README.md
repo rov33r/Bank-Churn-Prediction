@@ -1,2 +1,3 @@
 # Bank-Churn-Prediction
-A neural network model predicting customer churn for a bank
+A neural network model predicting and visualizing customer churn for a bank
+Utilizes keras and keras tuner
